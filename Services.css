@@ -127,4 +127,13 @@ h1{
   margin: auto;
   text-align:center;
 }
+}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 1460px) {
+.float-right{
+  margin:auto;
+  float: right;
+    margin-right: 480px;
+    
+
 
